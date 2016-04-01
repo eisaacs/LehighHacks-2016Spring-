@@ -1,0 +1,39 @@
+var mongo = process.env.VCAP_SERVICES;
+var port = process.env.PORT || 3030; //change 3030? WHAT DO #s MEAN?!?!
+var conn_str = "";
+
+/////////////SURVEY//INFO///////////////////////////
+//Question 1//
+app.get{
+
+}
+
+app.get('/', function (req,res) {
+   res.send('Hello');
+});
+
+///////////////////////////////////////////////////
+
+var user = {
+  name:  nameInfo,
+  styleType: styleInfo
+};
+
+var tempPref = {
+	zer_fortyF = weatherPref,
+	forty_fiftF = ,
+	fift_sixtF = ,
+	sixt_seventF = ,
+	sevent_eightF = ,
+	eighty_plus = 
+};
+
+var clothes = {
+	type = ,
+	material = ,
+	price = ,
+	url = ,
+	image = ,
+	description = ,
+};
+
